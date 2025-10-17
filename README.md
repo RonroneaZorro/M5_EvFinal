@@ -62,4 +62,4 @@ Sigue estos pasos para ejecutar el proyecto:
 
 ## 👥 Autores
 
-Proyecto desarrollado por **Camila Collao** y **Daniel Paredes**.
+Proyecto desarrollado por **Camila Collado** y **Daniel Paredes**.
